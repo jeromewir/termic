@@ -1,0 +1,29 @@
+src/hooks/useShortcuts.ts
+  s_3b3dcf4bebf5a6::t_7040abc192204d 105-109
+  s_3b3dcf4bebf5a6::t_a6816a4efd849c 42-44
+  s_3b3dcf4bebf5a6::t_cbc4b92d1ccc26 110
+src/lib/shortcuts.ts
+  s_3b3dcf4bebf5a6::t_7040abc192204d 463
+  s_3b3dcf4bebf5a6::t_cbc4b92d1ccc26 464-474
+src/lib/shortcuts.test.ts
+  s_3b3dcf4bebf5a6::t_f9e42c691f9056 241,244-245,261-264
+  s_3b3dcf4bebf5a6::t_cbc4b92d1ccc26 5,238,256-260
+  s_3b3dcf4bebf5a6::t_a6816a4efd849c 235-237
+  s_3b3dcf4bebf5a6::t_7253fac3ed9453 246-248
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9a961777e3283781cd5e38f0a57e79536853af28",
+  "prompts": {},
+  "sessions": {
+    "s_3b3dcf4bebf5a6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecbce4272ffebqnBo9h5P81V0d",
+        "model": "unknown"
+      },
+      "human_author": "Jérôme Wirsztel <jeromewir@users.noreply.github.com>"
+    }
+  }
+}
