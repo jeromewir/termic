@@ -1,0 +1,21 @@
+src/hooks/useShortcuts.ts
+  s_3b3dcf4bebf5a6::t_0d52ee3aa61cdd 42,103-109
+src/lib/shortcuts.test.ts
+  s_3b3dcf4bebf5a6::t_0d52ee3aa61cdd 5,237,246-248
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5ae53e4289e2fed63f8ce9c6f17821e73804926e",
+  "prompts": {},
+  "sessions": {
+    "s_3b3dcf4bebf5a6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecbce4272ffebqnBo9h5P81V0d",
+        "model": "unknown"
+      },
+      "human_author": "Jérôme Wirsztel <jeromewir@users.noreply.github.com>"
+    }
+  }
+}
