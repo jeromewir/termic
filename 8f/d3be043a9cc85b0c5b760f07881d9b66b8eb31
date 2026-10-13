@@ -1,0 +1,27 @@
+src/lib/shortcuts.test.ts
+  s_3b3dcf4bebf5a6::t_0546ed8d4a269c 4-5,228-229,231-236,240-249
+  s_3b3dcf4bebf5a6::t_96735b9b02989e 237-239
+  s_3b3dcf4bebf5a6::t_d9c92c2f3ad9d3 230
+  s_3b3dcf4bebf5a6::t_84651288389260 250-251
+src/lib/shortcuts.ts
+  s_3b3dcf4bebf5a6::t_0546ed8d4a269c 456-457,459-462
+  s_3b3dcf4bebf5a6::t_96735b9b02989e 458
+src/components/task/TerminalPane.tsx
+  s_3b3dcf4bebf5a6::t_0546ed8d4a269c 37,1415
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8fd3be043a9cc85b0c5b760f07881d9b66b8eb31",
+  "prompts": {},
+  "sessions": {
+    "s_3b3dcf4bebf5a6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecbce4272ffebqnBo9h5P81V0d",
+        "model": "unknown"
+      },
+      "human_author": "Jérôme Wirsztel <jeromewir@users.noreply.github.com>"
+    }
+  }
+}
