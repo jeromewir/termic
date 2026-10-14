@@ -1,0 +1,40 @@
+scripts/fake-newline-agent.mjs
+  s_88d12d34a3a8dc::t_e368abf85e1242 1-36
+e2e/specs/terminal-newline.e2e.ts
+  s_88d12d34a3a8dc::t_9fc17fbf86bbb9 51-53,55-71,74-78
+  s_88d12d34a3a8dc::t_577042b92a990b 16-17
+  s_88d12d34a3a8dc::t_67fe7a81d7a04a 25-27,29-30
+  s_88d12d34a3a8dc::t_e368abf85e1242 1,3-4,6-9,11-12,19-20,22-24,32,34,36,50,54,72-73,79-81
+  s_88d12d34a3a8dc::t_e0561096757c42 2,5,10,13-15,18,21,28,31,33,35,37-49
+docs/e2e-coverage.md
+  s_88d12d34a3a8dc::t_410932ca59ddef 184
+src/lib/terminalNewline.ts
+  s_88d12d34a3a8dc::t_7b082b7b5fab8b 1-2,5
+  s_88d12d34a3a8dc::t_410932ca59ddef 3-4
+docs/ui.md
+  s_88d12d34a3a8dc::t_410932ca59ddef 28-32
+  s_88d12d34a3a8dc::t_a562f6d042df85 33
+src/components/task/TerminalPane.tsx
+  s_88d12d34a3a8dc::t_7b082b7b5fab8b 36,1522
+  s_88d12d34a3a8dc::t_410932ca59ddef 1363-1364,1523
+  s_88d12d34a3a8dc::t_aec707953ad101 1365-1366,1519
+src/lib/terminalNewline.test.ts
+  s_88d12d34a3a8dc::t_410932ca59ddef 2,6,10
+  s_88d12d34a3a8dc::t_7b082b7b5fab8b 1,3-5,7-9,11-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a5da6cb1131cbf290f7e2f2e034a6703803bdf1a",
+  "prompts": {},
+  "sessions": {
+    "s_88d12d34a3a8dc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec6618f86ffe852LRX5caq6s8a",
+        "model": "unknown"
+      },
+      "human_author": "Jérôme Wirsztel <jeromewir@users.noreply.github.com>"
+    }
+  }
+}
